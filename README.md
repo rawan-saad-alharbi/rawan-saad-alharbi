@@ -32,9 +32,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
-```dart
-// ملخص المهارات مكتوب بكود Dart الأنيق
-
 class DeveloperProfile extends Me {
   final String name = "Rawan Saad";
   final List<String> role = ["Flutter Developer", "Graphic Designer"];
